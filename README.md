@@ -5,7 +5,7 @@
 
 [![Deploy Pages](https://github.com/<OWNER>/<REPOSITORY>/workflows/Deploy%20Pages/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+This site can be found at: [https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-04-benjamin-abebe-02](https://MTHS-ICD2O-1-2024.github.io/benjamin-abebe-02)
 
 ---
 
