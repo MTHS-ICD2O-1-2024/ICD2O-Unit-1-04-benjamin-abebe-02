@@ -7,7 +7,7 @@ body {
   background-color: powderblue;
 }
 
-h1 {
+h1, h2 {
   background-color: rgb(255, 165, 0);
   color: hsl(147, 50%, 47%);
   padding: 40px;
@@ -16,4 +16,9 @@ h1 {
 
 p {
   background-color: #ff0fff;
+}
+
+.class{
+  background-color: lightyellow;
+  text-align: center;
 }
