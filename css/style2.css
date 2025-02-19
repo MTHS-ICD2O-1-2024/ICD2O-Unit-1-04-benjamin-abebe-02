@@ -4,7 +4,7 @@
 */
 
 body {
-  background-color: powderblue;
+  background-color: rgb(49, 49, 49);
 }
 
 h1,
@@ -19,7 +19,23 @@ p {
   background-color: #ff0fff;
 }
 
-.class {
+li {
   background-color: lightyellow;
   text-align: center;
+}
+
+th {
+  height: 2rem;
+  background: red;
+  border: 1px solid white;
+  text-align: center;
+  /* Changed to center the text */
+}
+
+td {
+  height: 2rem;
+  background: rgb(21, 182, 0);
+  border: 1px solid black;
+  text-align: center;
+  /* Ensures the content in td is centered */
 }
